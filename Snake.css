@@ -1,0 +1,17 @@
+/*
+Snake.css
+版本:1.0
+上次修订:2010/7/20
+作者:haozi
+团队:院报
+*/
+body{
+	background:gray;
+	text-align:center;
+    font-family:'Times New Roman';
+}
+canvas{
+	background:white;
+	width:1000px;
+	height:500px;
+}
